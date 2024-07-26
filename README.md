@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iriszflwr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in the world of progammation
+- 🌱 I’m currently learning js and front-end
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm designer graphic
 
